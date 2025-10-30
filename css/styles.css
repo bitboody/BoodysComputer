@@ -29,7 +29,7 @@ body {
   overflow: hidden !important;
   background-color: #ece9d8;
   min-height: 100px;
-  background: url(../assets/images/bliss.jpg) no-repeat center center fixed;
+  background: url(../assets/images/bliss.avif) no-repeat center center fixed;
   background-size: cover;
 }
 
